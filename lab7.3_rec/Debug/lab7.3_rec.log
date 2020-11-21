@@ -1,0 +1,3 @@
+﻿  lab7_3_rec.cpp
+D:\Student\lab7.3_rec\lab7.3_rec\lab7_3_rec.cpp(45): warning C4715: Part1_Count: значение возвращается не при всех путях выполнения
+  lab7.3_rec.vcxproj -> D:\Student\lab7.3_rec\Debug\lab7.3_rec.exe
